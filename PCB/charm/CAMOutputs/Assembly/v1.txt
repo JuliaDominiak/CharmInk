@@ -1,0 +1,5 @@
+Partlist exported from D:/Nowy folder (10)/1.02/v1.sch at 23.01.2025 17:34
+
+Qty Value          Device         Package        Parts                                                                                                                                                                     Description                        MF MPN                OC_FARNELL OC_NEWARK POPULARITY TP_SIGNAL_NAME
+1   FH12-30S-0.5SH FH12-30S-0.5SH FH12-30S-0.5SH X1                                                                                                                                                                        0.5mm Pitch Connectors For FPC/FFC    FH12-30S-0.5SH(55) 1324555    34M6176   0                        
+30  TPTP13R        TPTP13R        TP13R          TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP26, TP27, TP28, TP29, TP30 Test pad                                                                      0                        
